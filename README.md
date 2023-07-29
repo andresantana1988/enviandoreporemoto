@@ -8,8 +8,8 @@ Repositório para aramazenar resumos sobre Git GitHub do curso Versionamento de 
 
 ## 💻 Resumos das aulas
 
-|Aulas|Resumos|
-|------||--------|
+| Aulas | Resumos |
+|------|--------|
 | Gravando alteraçõs no repositório Local | [Resumos]()
  
 ---
